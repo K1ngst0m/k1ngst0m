@@ -1,13 +1,12 @@
 <!-- List Of Websites-->
 [blog]: https://npchitman.com
 [Aphrodite]: https://github.com/npchitman/Aphrodite
-[twitter]: https://www.twitter.com/npchitman
+[outlook]: mailto:npchitman@outlook.com
 [reddit]: https://www.reddit.com/user/npchitman
 [github]: https://www.github.com/npchitman
 [gmail]: mailto:npchitmann@gmail.com
 [bmac]: https://www.buymeacoffee.com/adi1090x
 [ko-fi]: https://ko-fi.com/adi1090x
-
 
 ### Hi there, I'm Yiji Chen<br>
 
@@ -43,7 +42,7 @@ I'm a Game Developer && Linux Enthusiast!
 
 ### Connect with me:
 
-[<img align="left" alt="npchitman | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="npchitman | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
+<!-- [<img align="left" alt="npchitman | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit] -->
 [<img align="left" alt="npchitman | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="npchitman | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="npchitman | Gmail" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="npchitman | Outlook" width="22px" src="https://image.flaticon.com/icons/png/512/732/732223.png" />][outlook]
