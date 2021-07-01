@@ -5,18 +5,18 @@
 [reddit]: https://www.reddit.com/user/npchitman
 [github]: https://www.github.com/npchitman
 [gmail]: mailto:npchitmann@gmail.com
-[bmac]: https://www.buymeacoffee.com/adi1090x
-[ko-fi]: https://ko-fi.com/adi1090x
 
 ### Hi there, I'm Yiji Chen<br>
 
 ### <ins>About Me:</ins>
 
 I'm a Game Developer && Linux Enthusiast!
-- Currently working on [Aphrodite-Engine][Aphrodite]
-- Currently practising C++, OpenGL and game engine programming
 - Interested in game development, computer graphics and game engine programming
-- Please check out my [website][blog] for more about my experience in programming, computer graphics, etc.
+- Currently practising C++, OpenGL and game engine programming
+- Currently working on [Aphrodite-Engine][Aphrodite]:<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=npchitman&repo=Aphrodite&theme=calm)][Aphrodite]
+- Please check out the [website][blog] for more about my experience in programming, computer graphics, etc.
+
 
 ***
 
@@ -37,6 +37,7 @@ I'm a Game Developer && Linux Enthusiast!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npchitman&count_private=true&show_icons=true&include_all_commits=true&line_height=40&theme=calm&hide=contribs,prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npchitman&theme=calm&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
 
 ***
 
