@@ -17,7 +17,7 @@ I'm a Game Developer && Linux Enthusiast!
 - Currently working on [Aphrodite-Engine][Aphrodite]
 - Currently practising C++, OpenGL and game engine programming
 - Interested in game development, computer graphics and game engine programming
-- Please Check out my [website][blog] for more experience about programming, computer graphics, etc.
+- Please Check out my [website][blog] for more about my experience in programming, computer graphics, etc.
 
 ***
 
