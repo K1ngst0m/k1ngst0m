@@ -12,7 +12,7 @@
 
 I'm a Game Developer && Linux Enthusiast!
 - Interested in game development, computer graphics and game engine programming
-- Currently practising C++, OpenGL and game engine programming
+- Currently practising C++, Vulkan, OpenGL and game engine programming
 - Currently working on [Aphrodite-Engine][Aphrodite]:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=npchitman&repo=Aphrodite&theme=calm)][Aphrodite]
 - Please check out the [website][blog] for more about my experience in programming, computer graphics, etc.
@@ -26,6 +26,7 @@ I'm a Game Developer && Linux Enthusiast!
 <img align="center" alt="npchitman|C#" width="30px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Rust" width="30px" src="images/rust.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Python" width="30px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="npchitman|Vulkan" width="30px" src="images/vulkan.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|OpenGL" width="30px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Blender" width="30px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Unity" width="30px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
