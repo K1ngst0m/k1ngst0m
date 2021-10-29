@@ -6,7 +6,7 @@
 [github]: https://www.github.com/npchitman
 [gmail]: mailto:npchitmann@gmail.com
 
-### Hi there, I'm Yiji Chen<br>
+### Hi there, I'm Kingst0m<br>
 
 ### <ins>About Me:</ins>
 
