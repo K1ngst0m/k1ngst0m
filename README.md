@@ -6,8 +6,9 @@
 [github]: https://www.github.com/npchitman
 [gmail]: mailto:npchitmann@gmail.com
 
-### Hi there, I'm Kingst0m<br>
+### Hi there, I'm Kingst0m<br><br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npchitman&count_private=true&show_icons=true&include_all_commits=true&line_height=40&hide=contribs,prs,issues)
 ### <ins>About Me:</ins>
 
 I'm a Game Developer && Linux Enthusiast!
@@ -30,15 +31,6 @@ I'm a Game Developer && Linux Enthusiast!
 <img align="center" alt="npchitman|OpenGL" width="30px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Blender" width="30px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="npchitman|Unity" width="30px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
-***
-
-### <ins>Github:</ins>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npchitman&count_private=true&show_icons=true&include_all_commits=true&line_height=40&hide=contribs,prs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npchitman&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 
 ***
 
