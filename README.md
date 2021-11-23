@@ -33,10 +33,3 @@ I'm a Game Developer && Linux Enthusiast!
 <img align="center" alt="npchitman|Unity" width="30px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ***
-
-### Connect with me:
-
-<!-- [<img align="left" alt="npchitman | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit] -->
-[<img align="left" alt="npchitman | Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />][github]
-[<img align="left" alt="npchitman | Gmail" width="22px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1637267431~hmac=7835c0fd06aba91fbd26052ea5c11823" />][gmail]
-[<img align="left" alt="npchitman | Outlook" width="22px" src="https://image.flaticon.com/icons/png/512/732/732223.png" />][outlook]
