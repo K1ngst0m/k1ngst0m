@@ -8,7 +8,7 @@
 
 ### Hi there, I'm Kingst0m<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npchitman&count_private=true&show_icons=true&include_all_commits=true&line_height=40&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npchitman&count_private=true&show_icons=true&include_all_commits=true&line_height=40)
 ### <ins>About Me:</ins>
 
 I'm a Game Developer && Linux Enthusiast!
