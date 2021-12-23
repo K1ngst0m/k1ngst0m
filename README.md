@@ -6,17 +6,13 @@
 [github]: https://www.github.com/npchitman
 [gmail]: mailto:npchitmann@gmail.com
 
-### Hi there, I'm Kingst0m<br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npchitman&count_private=true&show_icons=true&include_all_commits=true&line_height=40)
 ### <ins>About Me:</ins>
+[![hlissner's github stats](https://github-readme-stats.vercel.app/api?username=npchitman&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/npchitman)
 
-I'm a Game Developer && Linux Enthusiast!
-- Interested in game development, computer graphics and game engine programming
+- Interested in computer graphics and game engine programming
 - Currently practising C++, Vulkan, OpenGL and game engine programming
 - Currently working on [Aphrodite-Engine][Aphrodite]:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=npchitman&repo=Aphrodite)][Aphrodite]
-- Please check out the [website][blog] for more about my experience in programming, computer graphics, etc.
 
 
 ***
