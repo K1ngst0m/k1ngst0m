@@ -7,12 +7,12 @@
 [gmail]: mailto:npchitmann@gmail.com
 
 ### <ins>About Me:</ins>
-[![hlissner's github stats](https://github-readme-stats.vercel.app/api?username=npchitman&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)](https://github.com/npchitman)
+[![hlissner's github stats](https://github-readme-stats.vercel.app/api?username=npchitman&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&title_color=4F8CC9)](https://github.com/npchitman)
 
 - Interested in computer graphics and game engine programming
 - Currently practising C++, Vulkan, OpenGL and game engine programming
 - Currently working on [Aphrodite-Engine][Aphrodite]:<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=npchitman&repo=Aphrodite&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)][Aphrodite]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=npchitman&repo=Aphrodite&hide_border=true&title_color=4F8CC9)][Aphrodite]
 
 
 ***
