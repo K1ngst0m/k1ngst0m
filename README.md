@@ -5,7 +5,6 @@
 [github]: https://www.github.com/k1ngst0m
 [gmail]: mailto:kingstom.chen@gmail.com
 
-### <ins>About Me:</ins>
 [![kingstom's github stats](https://github-readme-stats.vercel.app/api?username=k1ngst0m&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&title_color=4F8CC9)](https://github.com/k1ngst0m)
 
 ***
