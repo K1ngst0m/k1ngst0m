@@ -1,13 +1,12 @@
 <!-- List Of Websites-->
-[blog]: https://npchitman.com
-[Aphrodite]: https://github.com/npchitman/Aphrodite
-[outlook]: mailto:npchitman@outlook.com
+[blog]: https://k1ngst0m.github.io
+[Aphrodite]: https://github.com/k1ngst0m/Aphrodite
 [reddit]: https://www.reddit.com/user/npchitman
-[github]: https://www.github.com/npchitman
-[gmail]: mailto:npchitmann@gmail.com
+[github]: https://www.github.com/k1ngst0m
+[gmail]: mailto:kingstom.chen@gmail.com
 
 ### <ins>About Me:</ins>
-[![hlissner's github stats](https://github-readme-stats.vercel.app/api?username=npchitman&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&title_color=4F8CC9)](https://github.com/npchitman)
+[![kingstom's github stats](https://github-readme-stats.vercel.app/api?username=k1ngst0m&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&title_color=4F8CC9)](https://github.com/k1ngst0m)
 
 ***
 
