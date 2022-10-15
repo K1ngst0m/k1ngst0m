@@ -5,4 +5,4 @@
 [github]: https://www.github.com/k1ngst0m
 [gmail]: mailto:kingstom.chen@gmail.com
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/K1ngst0m?cardType=level-alternate&theme=graywhite&Border=DD272700&Title=23060600)](https://git.io/awesome-stats-card)
+[![kingstom's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=k1ngst0m&theme=buefy&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&title_color=4F8CC9)](https://github.com/k1ngst0m)
